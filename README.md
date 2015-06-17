@@ -1,4 +1,2 @@
-# Let's Encrypt IIS
-This is the "work in progress" IIS configurator for the wonderful [Let's Encrypt project](letsencrypt.org). It's far from ready, so please don't even dare using it right now.
-
-This is a Microsoft DX project, because Microsoft :heart: Let's Encrypt.
+# The work here has moved
+After discussion with the Let's Encrypt team, we'll work to include the IIS plugin with the main repository. For that reason, our work has moved to https://github.com/felixrieseberg/lets-encrypt-preview/tree/iis and the main repo at https://github.com/letsencrypt/lets-encrypt-preview.
